@@ -194,7 +194,7 @@ were not included in Celtia.
 
 ## Character bibles 
 
-![](readmeimages/image1.png)
+![](images/image1.png)
 
 **Lugh** - son of Ethne and Cian, known as Lugh of the
 Long Arm. He is a skilled warrior, leader, craftsman, and sorcerer. He
@@ -202,30 +202,30 @@ is well known for his deeds in battle and his skill in using his sacred
 spear. It is said that no battle was ever sustained against the spear.
 His skills are now put to the ultimate test.
 
-![](readmeimages/image2.jpeg)
+![](images/image2.jpeg)
 
 **Eochaid mac Eirc** - king of the Fir
 Bolg. He is a tyrannical king who reigns chaos upon the land. He awaits
 the hero Lugh to engage in the battle of destiny.
 
-![](readmeimages/image3.jpeg)
+![](images/image3.jpeg)
 
 **Balor** - the evil sorcerer. His origin
 is unknown. He is thought to be one of the ancient sages that turned
 from the balance of the world and plunged himself into chaos.
 
-![](readmeimages/image4.jpeg)
+![](images/image4.jpeg)
 
 **Indech mac De Domnann** - king of the
 Formorians. He is a deadly fighter who is known for his terrifying skill
 in battle.
 
-![](readmeimages/image5.jpeg)
+![](images/image5.jpeg)
 
 **Fir Bolg** - a race of giants that
 inhabit Ireland. These are the minions of Eochaid mac Eirc.
 
-![](readmeimages/image6.jpeg)
+![](images/image6.jpeg)
 
 **Formorians** - a race of monster-like
 creatures that inhabit Ireland. They are chaotic and will attack when
@@ -296,21 +296,21 @@ order to bring peace to Ireland.
 The Formorians and the Fir Bolg inhabit Ireland. Chaos overwhelms the
 land.
 
-![](readmeimages/image7.jpeg)
+![](images/image7.jpeg)
 
 ### Lugh\'s Arrival
 
 Lugh arrives to bring peace and order to Ireland. He brings with him his
 sacred spear.
 
-![](readmeimages/image8.jpeg)
+![](images/image8.jpeg)
 
 ### The Battle for Ireland
 
 Lugh battles the Formorians and the Fir Bolg to bring balance to the
 land.
 
-![](readmeimages/image9.jpeg)
+![](images/image9.jpeg)
 
 # Game Progression
 
