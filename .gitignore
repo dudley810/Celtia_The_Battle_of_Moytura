@@ -1,8 +1,16 @@
+# Visual Studio FILES
+.vs
+*.vcxproj.user
+
+# MAC FILES
 *.DS_Store*
 */._*
 *._*
 ._*
+
+# binary files
 *.exe
+
 # Prerequisites
 *.d
 
